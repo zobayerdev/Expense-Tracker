@@ -1,5 +1,5 @@
 # Expense-Tracker
-- This project create Java programming Language and also using SQLite Database. It's a clint project. 
+- I created this project with a complete Java programming language and have also used it with SQLite Database in this Project. It's a client project. 
 - 📫 If you feel any problem to download this project, contact with me: zobayer.dev@gmail.com
 - You can also contribute to upgrade this project.
 
